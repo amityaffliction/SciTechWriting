@@ -1,0 +1,416 @@
+﻿Level	Date and Time	Source	Event ID	Task Category
+Information	2014-11-21 오후 4:13:50	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-11-20 오후 6:10:55	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-11-20 오후 3:55:26	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-11-20 오후 3:50:38	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎11‎-‎20T06:50:37.626398400Z.
+Information	2014-11-20 오전 5:03:18	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎11‎-‎19T20:03:18.910221700Z.
+Information	2014-11-19 오후 3:46:04	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-11-19 오후 2:07:14	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-11-19 오후 2:04:13	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎11‎-‎19T05:04:12.610798400Z.
+Information	2014-11-14 오후 12:57:21	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎11‎-‎14T03:57:21.638218400Z.
+Information	2014-11-14 오후 12:57:07	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-11-14 오전 11:05:12	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-11-14 오전 10:54:31	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎11‎-‎14T01:54:30.626398400Z.
+Information	2014-11-13 오후 6:45:04	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎11‎-‎13T09:45:04.502615900Z.
+Information	2014-11-13 오후 6:44:50	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-11-13 오후 5:02:54	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-11-13 오전 7:55:41	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎11‎-‎12T22:55:40.610798400Z.
+Information	2014-11-13 오전 5:28:51	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎11‎-‎12T20:28:51.405024700Z.
+Information	2014-11-12 오후 4:44:14	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-11-12 오후 4:01:41	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-11-12 오후 3:52:03	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-11-12 오전 5:02:09	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-11-12 오전 5:00:58	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎11‎-‎11T20:00:57.610798400Z.
+Information	2014-11-05 오후 3:50:24	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-11-05 오후 2:02:06	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-11-05 오후 1:46:00	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-11-05 오후 12:26:47	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-11-04 오후 3:48:01	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-11-04 오후 3:23:28	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-11-04 오후 3:21:50	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎11‎-‎04T06:21:49.610798400Z.
+Information	2014-10-30 오후 6:50:21	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎10‎-‎30T09:50:21.581813800Z.
+Information	2014-10-30 오후 6:50:11	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-30 오후 5:04:12	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-30 오후 5:02:44	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-30 오후 4:58:46	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-30 오후 4:57:29	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎10‎-‎30T07:57:28.610798400Z.
+Information	2014-10-30 오후 4:42:21	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎10‎-‎30T07:42:21.097608600Z.
+Information	2014-10-30 오후 4:42:09	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-30 오후 4:18:50	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-29 오후 3:49:30	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-29 오후 1:58:22	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-27 오후 6:42:57	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-27 오후 6:27:30	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-25 오후 9:52:24	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-25 오후 4:20:08	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-25 오후 4:19:03	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎10‎-‎25T07:19:02.610798400Z.
+Information	2014-10-23 오후 6:59:20	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎10‎-‎23T09:59:20.439620000Z.
+Information	2014-10-23 오후 6:59:03	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-23 오후 3:56:45	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-23 오후 12:13:28	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-23 오전 11:47:46	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-23 오전 10:51:00	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-23 오전 9:00:07	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-22 오후 3:49:31	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-22 오후 2:00:29	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-21 오후 8:37:59	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-21 오후 2:52:43	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-21 오전 6:16:58	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-20 오후 4:14:24	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-20 오후 4:00:44	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-20 오후 3:38:08	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-20 오후 3:31:13	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-20 오후 3:30:32	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-20 오후 3:20:51	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-20 오후 1:35:20	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-20 오후 1:13:43	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-20 오후 12:32:49	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-16 오후 6:46:53	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-16 오후 4:52:46	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-16 오후 4:48:07	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-16 오후 3:38:41	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-16 오전 10:49:12	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-16 오전 8:42:53	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-16 오전 5:21:03	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎10‎-‎15T20:21:02.610798400Z.
+Information	2014-10-16 오전 5:20:22	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎10‎-‎15T20:20:22.034623800Z.
+Information	2014-10-14 오후 6:20:19	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-14 오후 6:16:10	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-08 오후 3:50:49	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-08 오후 2:05:09	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-08 오후 2:03:44	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎10‎-‎08T05:03:43.610798400Z.
+Information	2014-10-08 오후 1:58:19	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-08 오후 1:57:04	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎10‎-‎08T04:57:03.610798400Z.
+Information	2014-10-08 오후 12:26:08	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎10‎-‎08T03:26:08.055615300Z.
+Information	2014-10-08 오후 12:25:57	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-08 오후 12:24:31	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-03 오전 11:49:00	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-03 오전 11:42:20	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-02 오후 6:23:42	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-02 오후 4:56:03	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-02 오후 4:55:05	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎10‎-‎02T07:55:04.610798400Z.
+Information	2014-10-02 오후 3:25:52	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎10‎-‎02T06:25:52.700031300Z.
+Information	2014-10-02 오후 3:25:33	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-02 오전 11:43:36	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-01 오후 5:06:50	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-01 오후 5:00:01	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-10-01 오후 4:59:48	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-10-01 오후 1:55:24	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-28 오후 7:54:47	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-28 오후 7:26:19	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-27 오후 4:38:16	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-25 오후 4:24:51	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-25 오후 4:22:57	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎09‎-‎25T07:22:56.610798400Z.
+Information	2014-09-25 오후 12:18:34	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎09‎-‎25T03:18:34.122816100Z.
+Information	2014-09-25 오후 12:18:22	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-25 오후 12:17:23	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-24 오후 6:00:46	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-24 오후 4:59:59	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-24 오후 4:58:45	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-24 오후 3:59:38	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-24 오후 3:59:00	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-24 오후 2:00:21	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-23 오후 5:37:04	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-23 오후 3:30:09	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-22 오후 7:45:18	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-22 오후 3:27:27	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-22 오후 3:19:14	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-22 오후 1:50:57	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-22 오전 11:16:44	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎09‎-‎22T02:16:43.610798400Z.
+Information	2014-09-19 오후 12:17:35	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-19 오전 10:02:44	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-19 오전 9:59:11	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎09‎-‎19T00:59:10.610798400Z.
+Information	2014-09-18 오후 5:46:46	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎09‎-‎18T08:46:46.574813800Z.
+Information	2014-09-18 오후 5:46:35	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-18 오후 5:32:28	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-18 오후 5:26:57	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-18 오후 4:42:14	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-18 오후 4:03:22	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-18 오후 3:22:56	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-18 오후 3:22:15	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎09‎-‎18T06:22:14.610798400Z.
+Information	2014-09-17 오후 6:18:01	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎09‎-‎17T09:18:01.131009000Z.
+Information	2014-09-17 오후 6:17:49	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-17 오후 5:01:02	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-17 오후 4:56:41	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-17 오후 3:38:40	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-17 오후 3:38:13	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-17 오후 1:54:36	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-16 오후 12:42:53	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-16 오전 11:20:22	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-15 오후 7:31:18	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-15 오후 6:38:32	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-15 오후 6:36:50	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎09‎-‎15T09:36:49.610798400Z.
+Information	2014-09-15 오후 6:36:15	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎09‎-‎15T09:36:15.449307000Z.
+Information	2014-09-15 오후 6:35:14	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎09‎-‎15T09:35:13.610798400Z.
+Information	2014-09-11 오후 5:40:18	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎09‎-‎11T08:40:18.484215100Z.
+Information	2014-09-11 오후 5:27:36	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-11 오후 3:32:18	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-11 오후 3:30:12	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎09‎-‎11T06:30:11.610798400Z.
+Information	2014-09-04 오후 7:58:32	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎09‎-‎04T10:58:32.500010000Z.
+Information	2014-09-04 오후 7:56:05	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-04 오후 5:03:07	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-04 오후 4:36:11	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-04 오후 3:43:54	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-04 오후 1:44:05	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎09‎-‎04T04:44:04.610798400Z.
+Information	2014-09-03 오후 4:27:49	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎09‎-‎03T07:27:49.015210600Z.
+Information	2014-09-03 오후 4:21:13	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎09‎-‎03T07:21:12.610798400Z.
+Information	2014-09-03 오후 4:19:50	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎09‎-‎03T07:19:50.221813600Z.
+Information	2014-09-03 오후 4:19:38	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-03 오후 3:30:41	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-03 오후 3:29:51	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎09‎-‎03T06:29:50.610798400Z.
+Information	2014-09-03 오후 2:45:34	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎09‎-‎03T05:45:34.910414200Z.
+Information	2014-09-03 오후 2:45:23	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-03 오후 2:27:05	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-03 오후 2:22:39	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎09‎-‎03T05:22:38.610798400Z.
+Information	2014-09-03 오후 2:21:59	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎09‎-‎03T05:21:59.385414700Z.
+Information	2014-09-03 오후 2:21:47	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-03 오후 2:16:08	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-03 오후 2:14:25	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎09‎-‎03T05:14:24.610798400Z.
+Information	2014-09-03 오후 2:13:47	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎09‎-‎03T05:13:47.126616100Z.
+Information	2014-09-03 오후 2:13:34	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-03 오후 1:58:37	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-03 오후 1:57:52	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎09‎-‎03T04:57:51.610798400Z.
+Information	2014-09-03 오후 1:53:25	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎09‎-‎03T04:53:25.817811400Z.
+Information	2014-09-03 오후 1:53:15	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-03 오후 1:42:17	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-03 오후 1:41:27	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎09‎-‎03T04:41:26.610798400Z.
+Information	2014-09-03 오후 1:40:46	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎09‎-‎03T04:40:46.963215300Z.
+Information	2014-09-03 오후 1:40:36	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-03 오후 1:30:55	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-03 오후 1:30:10	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎09‎-‎03T04:30:09.610798400Z.
+Information	2014-09-02 오후 6:15:16	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎09‎-‎02T09:15:16.370409600Z.
+Information	2014-09-02 오후 5:52:59	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎09‎-‎02T08:52:58.610798400Z.
+Information	2014-09-02 오후 5:52:19	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎09‎-‎02T08:52:19.269612300Z.
+Information	2014-09-02 오후 5:52:09	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-02 오후 5:50:23	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-02 오후 4:41:24	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-02 오후 1:45:19	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-02 오후 1:27:25	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-02 오후 12:12:14	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-02 오전 10:55:12	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-02 오전 9:49:58	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-01 오후 10:52:31	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎09‎-‎01T13:52:30.610798400Z.
+Information	2014-09-01 오후 10:51:53	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎09‎-‎01T13:51:53.884412000Z.
+Information	2014-09-01 오후 10:51:43	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-01 오후 10:47:42	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-01 오후 10:46:40	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎09‎-‎01T13:46:39.610798400Z.
+Information	2014-09-01 오후 10:46:00	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎09‎-‎01T13:46:00.925569100Z.
+Information	2014-09-01 오후 10:45:50	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-09-01 오후 10:36:32	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-09-01 오후 6:39:34	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎09‎-‎01T09:39:33.610798400Z.
+Information	2014-08-30 오후 4:38:40	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎30T07:38:40.299213400Z.
+Information	2014-08-30 오후 4:38:31	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 4:32:29	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 4:31:18	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎30T07:31:17.610798500Z.
+Information	2014-08-30 오후 2:55:57	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 2:55:44	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 2:44:32	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 2:44:06	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 2:38:25	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 2:38:08	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 2:36:43	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 2:36:03	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎30T05:36:02.610798500Z.
+Information	2014-08-30 오후 2:35:35	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎30T05:35:35.647813800Z.
+Information	2014-08-30 오후 2:35:26	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 2:31:33	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 2:30:21	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎30T05:30:20.610798500Z.
+Information	2014-08-30 오후 2:29:51	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎30T05:29:51.621613200Z.
+Information	2014-08-30 오후 2:29:42	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:43:44	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:42:46	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎30T03:42:45.626398500Z.
+Information	2014-08-30 오후 12:42:18	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎30T03:42:18.052271100Z.
+Information	2014-08-30 오후 12:42:08	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:40:03	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:39:53	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:39:35	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:39:06	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:37:39	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:37:28	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:35:55	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:35:49	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:35:02	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:34:51	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:34:24	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:34:07	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:32:46	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:32:12	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎30T03:32:11.610798500Z.
+Information	2014-08-30 오후 12:31:45	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎30T03:31:45.609250000Z.
+Information	2014-08-30 오후 12:31:36	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:29:33	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:28:44	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:26:13	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:25:25	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎30T03:25:24.626398500Z.
+Information	2014-08-30 오후 12:24:47	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎30T03:24:47.803411800Z.
+Information	2014-08-30 오후 12:24:37	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:18:40	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:18:19	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:17:54	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:17:48	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:07:23	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:07:14	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:05:41	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오후 12:05:30	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 11:47:21	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 11:47:15	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 11:45:44	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 11:45:39	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 11:43:50	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 11:43:41	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 11:42:02	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 11:41:56	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 11:40:56	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 11:40:51	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 11:40:01	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 11:39:36	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 11:39:28	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 11:39:20	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 11:35:52	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 11:35:42	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 1:47:34	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 1:46:49	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 1:25:04	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 1:24:11	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎29T16:24:10.626398500Z.
+Information	2014-08-29 오후 11:50:03	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-29 오후 8:56:34	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-29 오후 8:56:24	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-29 오후 8:50:44	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-29 오후 8:50:24	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-29 오후 8:49:52	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-29 오후 8:49:47	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-29 오후 8:34:01	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-29 오후 8:33:08	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎29T11:33:07.626398500Z.
+Information	2014-08-29 오후 8:30:01	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎29T11:30:01.459550200Z.
+Information	2014-08-29 오후 8:28:35	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎29T11:28:34.626398500Z.
+Information	2014-08-29 오후 8:12:02	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎29T11:12:02.370483100Z.
+Information	2014-08-29 오후 8:11:51	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-29 오후 8:09:57	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-29 오후 8:09:20	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎29T11:09:19.626398500Z.
+Information	2014-08-29 오후 8:08:43	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎29T11:08:43.275995300Z.
+Information	2014-08-29 오후 8:08:34	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-29 오후 8:05:39	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-29 오후 8:04:57	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎29T11:04:56.626398500Z.
+Information	2014-08-30 오전 3:50:37	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎29T18:50:37.792929200Z.
+Information	2014-08-30 오전 3:49:23	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎29T18:49:22.626398500Z.
+Information	2014-08-30 오전 2:32:26	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎29T17:32:26.967141300Z.
+Information	2014-08-30 오전 2:32:17	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 2:26:09	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 2:25:24	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎29T17:25:23.626398500Z.
+Information	2014-08-30 오전 2:23:01	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎29T17:23:01.272769300Z.
+Information	2014-08-30 오전 2:22:46	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 1:43:50	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 1:42:26	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎29T16:42:25.626398500Z.
+Information	2014-08-30 오전 1:30:41	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎29T16:30:41.932734800Z.
+Information	2014-08-30 오전 1:30:25	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 1:26:04	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 1:24:40	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎29T16:24:39.626398500Z.
+Information	2014-08-30 오전 1:24:12	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎29T16:24:12.465957600Z.
+Information	2014-08-30 오전 1:24:03	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 1:22:13	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 1:20:48	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎29T16:20:47.626398500Z.
+Information	2014-08-30 오전 1:18:51	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎29T16:18:51.928412600Z.
+Information	2014-08-30 오전 1:18:43	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 1:16:21	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 1:14:56	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎29T16:14:55.626398500Z.
+Information	2014-08-30 오전 1:13:06	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎29T16:13:06.137628000Z.
+Information	2014-08-30 오전 1:12:56	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 1:11:18	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 1:09:01	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎29T16:09:00.626398500Z.
+Information	2014-08-30 오전 12:29:14	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎29T15:29:14.575569200Z.
+Information	2014-08-30 오전 12:29:01	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 12:11:19	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-30 오전 12:10:33	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎29T15:10:32.626398500Z.
+Information	2014-08-29 오전 2:11:20	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎28T17:11:20.822120500Z.
+Information	2014-08-29 오전 2:10:11	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎28T17:10:10.626398500Z.
+Information	2014-08-29 오전 2:09:48	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎28T17:09:48.789965900Z.
+Information	2014-08-29 오전 2:09:40	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-29 오전 1:59:04	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-29 오전 1:57:33	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎28T16:57:32.626398500Z.
+Information	2014-08-27 오전 6:19:57	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎26T21:19:57.646734900Z.
+Information	2014-08-27 오전 6:19:47	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-27 오전 5:27:48	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-27 오전 5:27:43	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-27 오전 5:24:34	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-27 오전 5:24:22	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-27 오전 4:53:05	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-27 오전 4:52:03	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎26T19:52:02.626398500Z.
+Information	2014-08-27 오전 4:49:30	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎26T19:49:30.926853700Z.
+Information	2014-08-27 오전 4:49:13	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-27 오전 1:55:41	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-27 오전 1:52:32	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎26T16:52:31.626398500Z.
+Information	2014-08-27 오전 1:52:07	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎26T16:52:07.199614300Z.
+Information	2014-08-27 오전 1:51:45	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-26 오후 9:47:20	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-24 오전 5:05:54	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎23T20:05:53.626398500Z.
+Information	2014-08-24 오전 5:05:29	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎23T20:05:29.999674400Z.
+Information	2014-08-23 오전 5:59:22	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎22T20:59:21.626398500Z.
+Information	2014-08-23 오전 5:58:58	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎22T20:58:58.810724400Z.
+Information	2014-08-23 오전 5:56:12	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-22 오후 5:21:24	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-22 오후 5:20:13	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎22T08:20:12.610798500Z.
+Information	2014-08-22 오후 5:19:49	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎22T08:19:49.659052100Z.
+Information	2014-08-22 오후 5:19:41	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-22 오후 3:54:59	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-22 오후 3:54:11	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎22T06:54:10.610798500Z.
+Information	2014-08-22 오후 3:53:48	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎22T06:53:48.032306900Z.
+Information	2014-08-22 오후 3:53:40	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-22 오후 3:13:29	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-22 오후 3:12:39	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎22T06:12:38.610798500Z.
+Information	2014-08-22 오후 3:12:10	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎22T06:12:10.797239500Z.
+Information	2014-08-22 오후 3:12:04	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-21 오후 10:51:08	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-21 오후 10:50:10	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎21T13:50:09.610798500Z.
+Information	2014-08-21 오후 10:49:46	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎21T13:49:46.620272100Z.
+Information	2014-08-21 오후 10:49:35	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-21 오후 10:04:23	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-21 오후 10:01:47	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎21T13:01:46.610798500Z.
+Information	2014-08-21 오후 10:01:25	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎21T13:01:25.125658400Z.
+Information	2014-08-21 오후 9:57:03	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎21T12:57:02.610798500Z.
+Information	2014-08-21 오후 9:56:39	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎21T12:56:39.451255100Z.
+Information	2014-08-21 오후 9:40:56	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎21T12:40:55.610798400Z.
+Information	2014-08-21 오후 9:40:34	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎21T12:40:34.323349600Z.
+Information	2014-08-21 오후 9:39:08	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎21T12:39:07.610798400Z.
+Information	2014-08-21 오후 9:38:46	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎21T12:38:46.486177900Z.
+Information	2014-08-21 오후 9:37:04	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎21T12:37:03.610798400Z.
+Information	2014-08-21 오후 9:36:08	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎21T12:36:08.040668300Z.
+Information	2014-08-21 오후 9:27:48	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-21 오전 1:43:22	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-21 오전 1:41:18	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎20T16:41:17.610798400Z.
+Information	2014-08-21 오전 1:40:55	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎20T16:40:55.745873500Z.
+Information	2014-08-21 오전 1:40:50	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-21 오전 12:52:58	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-21 오전 12:52:46	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-21 오전 12:48:38	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-21 오전 12:48:25	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-21 오전 12:39:42	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-21 오전 12:26:56	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎20T15:26:55.610798400Z.
+Information	2014-08-21 오전 12:26:34	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎20T15:26:34.235328400Z.
+Information	2014-08-21 오전 12:21:32	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎20T15:21:31.610798400Z.
+Information	2014-08-21 오전 12:21:08	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎20T15:21:08.155300800Z.
+Information	2014-08-21 오전 12:17:20	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-20 오후 9:01:13	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-20 오후 9:00:46	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎20T12:00:45.610798400Z.
+Information	2014-08-20 오후 9:00:16	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎20T12:00:16.890822800Z.
+Information	2014-08-20 오후 9:00:11	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-20 오후 8:57:30	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-20 오후 8:56:15	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎20T11:56:14.610798400Z.
+Information	2014-08-20 오후 8:55:46	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎20T11:55:46.650817400Z.
+Information	2014-08-20 오후 8:55:41	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-20 오후 8:52:22	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-20 오후 8:51:48	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎20T11:51:47.626398500Z.
+Information	2014-08-20 오후 8:51:16	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎20T11:51:16.473453500Z.
+Information	2014-08-20 오후 8:51:11	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-20 오후 7:26:04	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-20 오후 7:25:39	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎20T10:25:38.610798400Z.
+Information	2014-08-20 오후 7:25:12	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎20T10:25:12.782929500Z.
+Information	2014-08-20 오후 7:25:08	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-20 오후 7:22:29	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-20 오후 7:22:04	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎20T10:22:03.610798400Z.
+Information	2014-08-20 오후 7:21:32	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎20T10:21:32.637728200Z.
+Information	2014-08-20 오후 7:21:29	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-20 오후 7:12:00	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-20 오후 7:11:48	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
+Information	2014-08-20 오후 7:07:26	Microsoft-Windows-Winlogon	7001	(1101)	User Logon Notification for Customer Experience Improvement Program
+Information	2014-08-20 오후 7:05:03	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎20T10:05:02.610798400Z.
+Information	2014-08-20 오후 7:04:36	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2014‎-‎08‎-‎20T10:04:36.066806700Z.
+Information	2014-08-20 오후 7:00:44	Microsoft-Windows-Kernel-General	12	None	The operating system started at system time ‎2014‎-‎08‎-‎20T10:00:44.453199900Z.
+Information	2009-07-14 오후 2:14:28	Microsoft-Windows-Kernel-General	13	None	The operating system is shutting down at system time ‎2009‎-‎07‎-‎14T05:14:28.146619400Z.
+Information	2009-07-14 오후 2:14:24	Microsoft-Windows-Winlogon	7002	(1102)	User Logoff Notification for Customer Experience Improvement Program
